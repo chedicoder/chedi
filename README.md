@@ -1,7 +1,4 @@
 ### Hi there 👋
-![Count](https://visitor-badge.laobi.icu/badge?page_id=chedicoder.chedicoder) 
-[![Github](https://img.shields.io/github/followers/chedicoder?label=Follow&style=social)](https://github.com/chedicoder)
-
 
 
 - My name is Chedi Ghribi ✨ 
