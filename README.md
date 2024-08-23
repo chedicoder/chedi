@@ -36,7 +36,9 @@
 <img width="60" height="60" alt="terraform" src="./icons/aws.png" />
 <img width="60" height="60" alt="terraform" src="./icons/Prometheus.svg" />
 <img width="60" height="60" alt="terraform" src="./icons/Grafana.svg" />
-<img width="60" height="60" alt="terraform" src="./icons/elk.png" />
+<img width="60" height="60" alt="terraform" src="./icons/Dynatrace.png" />
+<img width="60" height="60" alt="terraform" src="./icons/carbon-impact.png" />
+<img width="60" height="60" alt="terraform" src="./icons/neoload.png" />
 
 
 
